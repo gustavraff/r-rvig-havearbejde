@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rørvig Havearbejde</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #50b3a2;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #333333 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .content {
+            padding: 20px;
+            background: #ffffff;
+            margin: 20px 0;
+        }
+        footer {
+            background: #333333;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 10px;
+            background: #f4f4f4;
+            border: #cccccc 1px solid;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Velkommen til Rørvig Havearbejde 🌿🌼</h1>
+        </div>
+    </header>
+    <div class="container">
+        <div class="content">
+            <p>Vi er dit lokale team af haveeksperter, der står klar til at hjælpe dig med alle dine haveprojekter. Uanset om du har brug for græsslåning, beskæring af buske, anlæg af blomsterbede eller ukrudtsbekæmpelse, er vi her for at gøre din have smuk og velplejet.</p>
+            <h2>Vores services inkluderer:</h2>
+            <ul>
+                <li>
+                    <strong>Græsslåning og pleje:</strong>
+                    <p>Vi sørger for, at din græsplæne altid er i topform. Regelmæssig slåning og gødskning holder den frodig og grøn.</p>
+                </li>
+                <li>
+                    <strong>Beskæring af buske og træer:</strong>
+                    <p>Vores erfarne havemænd trimmer og beskærer dine planter, så de trives og ser smukke ud.</p>
+                </li>
+                <li>
+                    <strong>Anlæg af blomsterbede og hække:</strong>
+                    <p>Skab farverige oaser i din have med vores hjælp. Vi planter blomster og anlægger hække efter dine ønsker.</p>
+                </li>
+                <li>
+                    <strong>Ukrudtsbekæmpelse og jordforbedring:</strong>
+                    <p>Hold din have sund og fri for uønsket ukrudt. Vi fjerner ukrudt og tilføjer næringsrig jord.</p>
+                </li>
+            </ul>
+            <p>Besøg vores hjemmeside på <a href="https://www.din-hjemmeside.dk">www.din-hjemmeside.dk</a> for mere information og kontakt os på <a href="tel:dit-telefonnummer">dit telefonnummer</a> for at aftale en gratis konsultation. Lad os sammen skabe en smuk have i Rørvig!</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Rørvig Havearbejde. Alle rettigheder forbeholdes.</p>
+    </footer>
+</body>
+</html>
